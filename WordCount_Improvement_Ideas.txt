@@ -1,0 +1,6 @@
+Following are various ideas to enhance the WordCount program to do specialized functions
+
+1) Show top 50 words (based on usage) for a given author in all of his novels
+2) Count how many wovel (a e i o u) based words are used by the author
+3) Count words used by an author and ensure the output is having decending order of maximum used words
+4) Analyze an authors' work by aspecific genere (humour, arrogance, etc.) of words used 
