@@ -1,0 +1,4 @@
+. /etc/hadoop/conf/hadoop-env.sh
+
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=`hadoop classpath`
