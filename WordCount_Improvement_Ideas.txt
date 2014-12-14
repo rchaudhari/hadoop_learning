@@ -4,3 +4,5 @@ Following are various ideas to enhance the WordCount program to do specialized f
 2) Count how many wovel (a e i o u) based words are used by the author
 3) Count words used by an author and ensure the output is having decending order of maximum used words
 4) Analyze an authors' work by aspecific genere (humour, arrogance, etc.) of words used 
+5) Write the same WordCont program in PIG and observer how simple/complex it
+is
